@@ -1,0 +1,13 @@
+.wrapper {
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+}
+
+canvas[resize] {
+  height: 100%;
+  width: 100%;
+}
